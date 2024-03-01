@@ -1,0 +1,71 @@
+DESCARGA JAVA
+
+--------------------------------------
+
+DESCARGA 
+
+copiar descomprimido
+disco local C
+Archivos Programa - pegar
+
+Visual Studio
+Ctrl + shift + P
+Create project -  Name
+---------------------------------------
+
+ APPS 
+
+Java = Ejecutador Aplicaciones 
+JavaC = Compilar
+JavaDoc - Documentación de Clases
+JavaBB = Java y Bases de Datos
+Jar = Ejecutable de Java
+Java.exe = Java
+
+---------------------------------------
+
+DATOS 
+
+JAVA tiene herencia simple
+No tiene punteros
+Orientada a objetos
+Main recibe un arreglo de Strings
+
+JDK permite la compilacion de
+JVM = Java Virtual Machine 
+AWT + SWING
+---------------------------------------
+
+System.Out = Mostrar
+System.in = Recibir
+
+---------------------------------------
+
+ATAJOS
+
+PSVM = Metodo Main
+Sout = Comando imprimir
+
+---------------------------------------
+
+MOSTRAR VENTANA EMERGENTE
+
+JoptionPane.ShowMessageDialog(null, Titulo, Mensaje, JOptionPane.NombreIcono)
+
+---------------------------------------
+
+VARIABLES
+Todas minusculas excepto String
+
+
+byte = -128 - 127
+short 
+int
+long
+float = 1.90f (obligatorio "F" para distinguir entre Double)
+double = 2 elevado a 64
+boolean = True
+char = Un solo caracter (Con comilla simple)
+String = Cadena de texto
+
+

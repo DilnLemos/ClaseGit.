@@ -1,0 +1,9 @@
+Git Init: Inicia el repositorio Vacío donde se almacenarán todas las modificaciones.
+Git remote: vincular git a la carpeta local
+Git branch: Saber en que rama estamos del Git
+Git fetch: Trae las ramas de la nube a la local
+Git Switch: cambiar ramas
+Git status: Podemos ver que cambios se han hecho en el repositorio
+Git add  File: fija las carpetas a subir al repositorio la carpeta 
+Git Add .: añade todo
+Git commit -m "": Agrupa lo añadido en el add y Añade un mensaje para recordar

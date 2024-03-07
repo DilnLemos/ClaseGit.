@@ -7,3 +7,7 @@ Git status: Podemos ver que cambios se han hecho en el repositorio
 Git add  File: fija las carpetas a subir al repositorio la carpeta 
 Git Add .: añade todo
 Git commit -m "": Agrupa lo añadido en el add y Añade un mensaje para recordar
+git push origin main : Sube los archivos al repositorio
+git log : Commits de la rama actual
+git Pull: trae los archivos locales 
+git checkout -b NombreRama : Crea una rama nueva

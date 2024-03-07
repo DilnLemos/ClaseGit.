@@ -1,2 +1,2 @@
 # ClaseGit.
-Prueba de uso de Git en clase.
+Aqui va la documentación del code pro

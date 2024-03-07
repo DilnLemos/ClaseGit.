@@ -1,2 +1,3 @@
 # ClaseGit.
-Prueba de uso de Git en clase.
+Prueba de 2 usos de Git en clase.
+Cualquier Cosa
